@@ -1,0 +1,17 @@
+server:
+  port: 8081
+  context-path: /h
+
+#person:
+#  age: 18
+#  birth: 2017/12/12
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#      - List1
+#      - List2
+#  dog:
+#      name: 小狗
+#      age: 2
+#  last-name: zzzzzz
+#  boss: true
+
