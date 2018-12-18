@@ -1,6 +1,6 @@
-server:
-  port: 8081
-  context-path: /h
+#server:
+#  port: 8081
+#  context-path: /h
 
 #person:
 #  age: 18
