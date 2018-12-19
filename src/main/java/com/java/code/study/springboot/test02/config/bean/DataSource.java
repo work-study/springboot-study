@@ -1,4 +1,4 @@
-package com.netease.kaola.springboot.test02.config.bean;
+package com.java.code.study.springboot.test02.config.bean;
 
 import lombok.Data;
 import lombok.ToString;

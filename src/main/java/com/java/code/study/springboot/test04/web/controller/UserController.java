@@ -1,4 +1,4 @@
-package com.netease.kaola.springboot.test04.web.controller;
+package com.java.code.study.springboot.test04.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

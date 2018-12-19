@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.java.code.study</groupId>
-    <artifactId>springboot-code-study</artifactId>
+    <artifactId>springboot-study</artifactId>
     <version>1.0-SNAPSHOT</version>
     <parent>
         <groupId>org.springframework.boot</groupId>

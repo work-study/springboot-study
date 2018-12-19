@@ -1,7 +1,7 @@
-package com.netease.kaola.springboot;
+package com.java.code.study.springboot;
 
-import com.netease.kaola.springboot.test02.config.bean.DataSource;
-import com.netease.kaola.springboot.test02.config.bean.Person;
+import com.java.code.study.springboot.test02.config.bean.DataSource;
+import com.java.code.study.springboot.test02.config.bean.Person;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
